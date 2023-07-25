@@ -36,6 +36,9 @@ public class Main {
         for(String s : arrlist1){
             System.out.println(s);
         }
+        for(String s : arrlist1){
+            System.out.println(s);
+        }
 
 //
 //        LinkedList<String> list = new LinkedList<>();
